@@ -1,0 +1,6 @@
+Um die kompilierte Version auszuführen gehe zu 
+'windows-build.ver1.0\compiled\WoWs Ship Mastery\WoWs Ship Mastery.lnk'
+und mache einen DOppellinksklick auf die Verknüpfung. Wenn du das Programm verschieben möchtest dann
+mache es wie folgt:
+Verschiebe die Verknüpfung in 'windows-build.ver1.0\compiled\WoWs Ship Mastery' da wo du sie haben willst
+zum Beispiel auf den Desktop und den Ordner "WoWs Ship Mastery" (Der Odner wo alle Dateien drin sind)

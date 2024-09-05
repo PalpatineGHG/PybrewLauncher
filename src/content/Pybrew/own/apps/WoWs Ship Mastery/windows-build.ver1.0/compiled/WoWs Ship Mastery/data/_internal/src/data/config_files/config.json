@@ -1,0 +1,291 @@
+{
+    "ships": {
+        "tier": {
+            "11": {
+                "nation": {
+                    "germany": {
+                        "class": {
+                            "battleship": {
+                                "Hannover": null
+                            },
+                            "cruiser": {
+                                "Clausewitz": null
+                            }
+                        }
+                    },
+                    "japan": {
+                        "class": {
+                            "battleship": {
+                                "Satsuma": null
+                            },
+                            "destroyer": {
+                                "Yamagiri": null
+                            }
+                        }
+                    },
+                    "united-kingdom": {
+                        "class": {
+                            "battleship": {
+                                "Devestation": null
+                            },
+                            "cruiser": {
+                                "Edgar": null
+                            }
+                        }
+                    },
+                    "france": {
+                        "class": {
+                            "battleship": {
+                                "Patrie": null
+                            },
+                            "cruiser": {
+                                "Cond\u00e9": null
+                            }
+                        }
+                    },
+                    "united-states-of-america": {
+                        "class": {
+                            "battleship": {
+                                "Maine": null
+                            },
+                            "cruiser": {
+                                "Annapolis": null
+                            },
+                            "destroyer": {
+                                "Joshua Humphreys": null
+                            }
+                        }
+                    },
+                    "union-of-soviet-socialist-republics": {
+                        "class": {
+                            "battleship": {
+                                "Ushakow": null
+                            },
+                            "cruiser": {
+                                "Nowosibirsk": null
+                            },
+                            "destroyer": {
+                                "Zorky": null
+                            }
+                        }
+                    },
+                    "italy": {
+                        "class": {
+                            "cruiser": {
+                                "Piemonte": null
+                            }
+                        }
+                    },
+                    "europe": {
+                        "class": {
+                            "destroyer": {
+                                "Dalarna": null
+                            }
+                        }
+                    },
+                    "pan-asia": {
+                        "class": {
+                            "destroyer": {
+                                "Kunming": null
+                            }
+                        }
+                    }
+                }
+            },
+            "10": {
+                "nation": {
+                    "germany": {
+                        "class": {
+                            "battleship": {
+                                "Gro\u00dfer Kurf\u00fcrst": null,
+                                "Schlieffen": null,
+                                "Preussen": null
+                            },
+                            "cruiser": {
+                                "Hindenburg": null
+                            },
+                            "destroyer": {
+                                "Z-42": null,
+                                "Z-52": null,
+                                "Elbing": null
+                            }
+                        }
+                    },
+                    "japan": {
+                        "class": {
+                            "battleship": {
+                                "Yamato": null,
+                                "Bungo": null
+                            },
+                            "cruiser": {
+                                "Zao": null,
+                                "Yoshino": null,
+                                "Yodo": null
+                            },
+                            "destroyer": {
+                                "Shimakaze": null,
+                                "Harugumo": null,
+                                "Hayate": null
+                            }
+                        }
+                    },
+                    "united-states-of-america": {
+                        "class": {
+                            "battleship": {
+                                "Louisiana": null,
+                                "Montana": null,
+                                "Rhode Island": null,
+                                "Ohio": null,
+                                "Wisconsin": null
+                            },
+                            "cruiser": {
+                                "Des Moines": null,
+                                "Worcester": null,
+                                "Salem": null,
+                                "Puerto Rico": null,
+                                "Austin": null
+                            },
+                            "destroyer": {
+                                "Gearing": null,
+                                "Somers": null,
+                                "Forrest Sherman": null
+                            }
+                        }
+                    },
+                    "united-kingdom": {
+                        "class": {
+                            "battleship": {
+                                "Thunderer": null,
+                                "Conqueror": null,
+                                "St. Vincent": null,
+                                "Incomparable": null
+                            },
+                            "cruiser": {
+                                "Minotaur": null,
+                                "Goliath": null,
+                                "Plymouth": null,
+                                "Gibraltar": null
+                            },
+                            "destroyer": {
+                                "Daring": null,
+                                "Druid": null
+                            }
+                        }
+                    },
+                    "france": {
+                        "class": {
+                            "battleship": {
+                                "Republique": null,
+                                "Borgogne": null
+                            },
+                            "cruiser": {
+                                "Henri IV": null,
+                                "Colbert": null,
+                                "Marseille": null
+                            },
+                            "destroyer": {
+                                "Marceau": null,
+                                "Kl\u00e9ber": null
+                            }
+                        }
+                    },
+                    "union-of-soviet-socialist-republics": {
+                        "class": {
+                            "battleship": {
+                                "Kremlin": null,
+                                "Slawa": null
+                            },
+                            "cruiser": {
+                                "Smolensk": null,
+                                "Moskwa": null,
+                                "Stalingrad": null,
+                                "Petropavlosk": null,
+                                "Alexander Nevski": null,
+                                "Sewastopol": null
+                            },
+                            "destroyer": {
+                                "Chabarowsk": null,
+                                "Grosowoi": null,
+                                "Delny": null
+                            }
+                        }
+                    },
+                    "italy": {
+                        "class": {
+                            "battleship": {
+                                "Rugio Lauria": null,
+                                "Sicilia": null,
+                                "Cristoforo Colombo": null
+                            },
+                            "cruiser": {
+                                "Venezia": null,
+                                "Napoli": null
+                            },
+                            "destroyer": {
+                                "Attillo Regolo": null
+                            }
+                        }
+                    },
+                    "netherlands": {
+                        "class": {
+                            "cruiser": {
+                                "Gouden Leeuw": null
+                            },
+                            "destroyer": {
+                                "Tromp": null
+                            }
+                        }
+                    },
+                    "commonwealth": {
+                        "class": {
+                            "cruiser": {
+                                "Cerberus": null,
+                                "Brisbane": null
+                            },
+                            "destroyer": {
+                                "Vampire II": null
+                            }
+                        }
+                    },
+                    "pan-asia": {
+                        "class": {
+                            "cruiser": {
+                                "Jinan": null
+                            },
+                            "destroyer": {
+                                "Yueyang": null
+                            }
+                        }
+                    },
+                    "europe": {
+                        "class": {
+                            "destroyer": {
+                                "Halland": null,
+                                "Smaland": null,
+                                "Ragnar": null,
+                                "Gdansk": null
+                            }
+                        }
+                    },
+                    "spain": {
+                        "class": {
+                            "cruiser": {
+                                "Castilla": null
+                            },
+                            "destroyer": {
+                                "\u00c1lvaro de Baz\u00e1n": null
+                            }
+                        }
+                    },
+                    "pan-america": {
+                        "class": {
+                            "cruiser": {
+                                "San Martin": null
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
